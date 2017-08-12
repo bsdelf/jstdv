@@ -1,0 +1,9 @@
+{
+    "name": "jstdv",
+    "description": "JavaScript coding standard based on Vilic's",
+    "author": "Yanhui Shen",
+    "version": "0.1.0",
+    "peerDependencies": {
+        "eslint": "^4.4.1"
+    }
+}
